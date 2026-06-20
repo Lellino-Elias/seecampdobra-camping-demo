@@ -64,7 +64,7 @@ const seecampdobra: CampsiteConfig = {
   saison: { von: "Mai", bis: "Oktober" },
 
   hero: {
-    aerial: { src: `${IMG}/hero-1933817e1c.webp`, alt: "Seecamp Dobra am Ufer des Stausees mit Bootssteg" },
+    aerial: { src: `${IMG}/hero-d981651c54.webp`, alt: "Burgruine Dobra aus der Vogelperspektive — Campingplatz direkt neben den Ruinenmauern am Seeufer" },
   },
 
   breather: {
@@ -128,7 +128,7 @@ const seecampdobra: CampsiteConfig = {
       {
         title: "Burgruine Dobra",
         text: "Erklimm die Mauern für den Blick über den See — vom Burgareal saust der rund 400 m lange Big Fly hinaus.",
-        image: { src: `${IMG}/hero-d981651c54.webp`, alt: "Burgruine Dobra auf dem Felsvorsprung über dem See" },
+        image: { src: `${IMG}/hero-1c452d43da.webp`, alt: "Weitflächige Luftaufnahme der Burgruine Dobra auf einem Felsvorsprung im fjordartigen Stausee Dobra" },
       },
       {
         title: "Wandern & Ausflüge",
