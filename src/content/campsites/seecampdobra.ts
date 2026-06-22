@@ -90,12 +90,12 @@ const seecampdobra: CampsiteConfig = {
       {
         title: "Zeltwiese am Seeufer",
         text: "Viel Platz fürs Zelt, nahe am Wasser und nicht parzelliert — bau dein Lager auf, wie es dir gefällt.",
-        image: { src: `${IMG}/gallery-6302a3a170.webp`, alt: "Zeltwiese am Ufer des Stausees Dobra" },
+        image: { src: `${IMG}/gallery-26d62246d9.webp`, alt: "Gäste entspannen bei Zelten am Seecamp Dobra unter alten Laubbäumen" },
       },
       {
         title: "Eigene Liegewiese",
         text: "Die hauseigene Liegewiese am Stausee lädt zum Sonnen, Baden und Verweilen direkt am Wasser ein.",
-        image: { src: `${IMG}/gallery-cfc373f9e9.webp`, alt: "Liegewiese am Stausee Dobra mit Wildblumen" },
+        image: { src: `${IMG}/gallery-6302a3a170.webp`, alt: "Gäste entspannen im Sonnenschein auf der Liegewiese am Ufer des Stausees Dobra" },
       },
       {
         title: "Bootsverleih am Platz",
