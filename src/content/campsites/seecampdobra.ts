@@ -75,7 +75,7 @@ const seecampdobra: CampsiteConfig = {
   camping: {
     heading: "Camping am Stausee Dobra",
     intro:
-      "Vom terrassierten Stellplatz bis zur weiten Lagerwiese — nicht parzelliert, mit Strom und Wasser in der Nähe und dem See als Nachbarn.",
+      "Vom parzellierten Seecamp-Stellplatz bis zur weiten Lagerwiese — Strom und Wasser in der Nähe, der See als Nachbar. Lagerwiese und Zeltwiese: frei aufbaubar, nicht parzelliert.",
     features: [
       {
         title: "Seecamp — Plätze mit Seeblick",
